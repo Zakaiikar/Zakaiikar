@@ -109,6 +109,7 @@ A Java and PostgreSQL-based system for managing hospital operations.
 [View Project](https://github.com/Zakaiikar/Advanced-Hospital-Management-System-for-Advanved-Java)  
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakaiikar&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 **Education**  
 
